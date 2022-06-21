@@ -41,6 +41,6 @@ function calculate() {
         }
       counter++
       }
-    document.getElementById("loop").innerHTML = "The number is " + (total)
+    document.getElementById("loop").innerHTML = "The number is " + total
   }
 }
